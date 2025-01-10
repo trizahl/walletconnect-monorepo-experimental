@@ -7,7 +7,10 @@ const input = "./src/index.ts";
 const plugins = [
   nodeResolve({ preferBuiltins: false, browser: true }),
   json(),
-  commonjs(),
+  commonjs(),const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
   esbuild({
     minify: true,
     tsconfig: "./tsconfig.json",
@@ -17,7 +20,10 @@ const plugins = [
   }),
 ];
 
-export default function createConfig(
+export default function createConfig(const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
   packageName,
   packageDependencies,
   umd = {},
@@ -46,7 +52,13 @@ export default function createConfig(
           file: "./dist/index.cjs.js",
           format: "cjs",
           exports: "named",
-          name: packageName,
+          name: packageName,const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
           sourcemap: true,
           ...cjs,
         },
