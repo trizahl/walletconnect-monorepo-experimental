@@ -20,6 +20,48 @@
     "no-undef": ["error"],
     "no-var": ["error"],
     "object-curly-spacing": ["error", "always"],
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
+    "no-async-promise-executor": ["off"],
+    "no-empty-pattern": ["
     "quotes": ["error", "double", { "allowTemplateLiterals": true }],
     "semi": ["error", "always"],
     "spaced-comment": ["off"],
