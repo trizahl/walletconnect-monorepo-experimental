@@ -19,6 +19,26 @@
       "matchPackagePatterns": ["@walletconnect/*"],
       "schedule": ["at any time"]
     }
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
   ],
   "ignorePaths": ["**/android/**", "**/ios/**"]
 }
