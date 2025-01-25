@@ -20,6 +20,38 @@
     "allowSyntheticDefaultImports": true,
     "alwaysStrict": true,
     "composite": true,
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
+    "esModuleInterop": true,
+
+    "downlevelIteration": true,
+
     "declaration": true,
     "declarationMap": true,
     "downlevelIteration": true,
