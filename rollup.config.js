@@ -15,7 +15,43 @@ const plugins = [
     minify: true,
     tsconfig: "./tsconfig.json",
     loaders: {
+      ".json": "json", json(),
+  commonjs(),const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+    minify: true,
+    tsconfig: "./tsconfig.json",
+    loaders: {
       ".json": "json",
+    },
+  }),
+]; json(),
+  commonjs(),const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+    minify: true,
+    tsconfig: "./tsconfig.json",
+    loaders: {
+      ".json": "json",
+    },
+  }),
+]; json(),
+  commonjs(),const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+    minify: true,
+    tsconfig: "./tsconfig.json",
+    loaders: {
+      ".json": "json",
+    },
+  }),
+];
     },
   }),
 ];
