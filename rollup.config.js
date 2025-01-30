@@ -72,6 +72,33 @@ const plugins = [
       plugins,
       output: {
         file: "./dist/index.umd.js",
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+    minify: true,
+    tsconfig: "./tsconfig.json",
+    loaders: {
+      ".json": "json", json(),
+  commonjs(),const input = "./src/index.ts";
+const plugins = [gins,
+      output: {
+        file: "./dist/index.umd.js",
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+    minify: true,
+    tsconfig: "./tsconfig.json",
+    loaders: {
+      ".json": "json", json(),
+  commonjs(),const input = "./src/index.ts";
+const plugins = [
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+  nodeResolve({ preferBuiltins: false, browser: true }),
+  json(),
+  esbuild({
+    minify: tr
         format: "umd",
         exports: "named",
         name: packageName,
