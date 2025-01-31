@@ -34,6 +34,24 @@
     },
     {
       "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
       "matchPackagePatterns": ["*"],
       "schedule": ["every weekend"]
     },
