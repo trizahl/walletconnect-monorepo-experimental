@@ -10,10 +10,23 @@
   ],
   "updateInternalDeps": true,
   "rollbackPrs": false,
-  "packageRules": [
+  "packageRules": [    ":prHourlyLimit2",
+    ":semanticCommits",
     {
       "matchPackagePatterns": ["*"],
       "schedule": ["every weekend"]
+    ":semanticCommits",
+    {
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
+    {
+      "matchPackagePatterns": ["@walletconnect/*"],
+      "schedule": ["at any time"]
+    }
+      "matchPackagePatterns": ["*"],
+      "schedule": ["every weekend"]
+    },
     },
     {
       "matchPackagePatterns": ["@walletconnect/*"],
